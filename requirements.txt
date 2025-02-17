@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+mangum
+pdfplumber
+faiss-cpu
+psycopg2-binary
+transformers
+openai
+sentence-transformers
+python-multipart
+pydantic
+numpy
+pandas
+pillow
+requests
+tqdm
+flask
